@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Cris. Ronaldo",
+        "phone":"0909998532",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Leonel Messi",
+        "phone":"0909998532",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Neymar Jr",
+        "phone":"0239998532",
+        "permission":2
+    },
+    {
+        "id":4,
+        "name":"Wayner Rooney",
+        "phone":"0349998532",
+        "permission":3
+    },
+    {
+        "id":5,
+        "name":"Mo Salah",
+        "phone":"0909998532",
+        "permission":3
+    },
+    {
+        "id":6,
+        "name":"Virgil Vandir",
+        "phone":"0909398532",
+        "permission":1
+    }     
+] 

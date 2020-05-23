@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_admin_user_manage/static/css/main.2fcfb848.chunk.css",
+    "main.js": "/react_admin_user_manage/static/js/main.f010a840.chunk.js",
+    "main.js.map": "/react_admin_user_manage/static/js/main.f010a840.chunk.js.map",
+    "runtime-main.js": "/react_admin_user_manage/static/js/runtime-main.78f3226c.js",
+    "runtime-main.js.map": "/react_admin_user_manage/static/js/runtime-main.78f3226c.js.map",
+    "static/js/2.dc69e9d4.chunk.js": "/react_admin_user_manage/static/js/2.dc69e9d4.chunk.js",
+    "static/js/2.dc69e9d4.chunk.js.map": "/react_admin_user_manage/static/js/2.dc69e9d4.chunk.js.map",
+    "index.html": "/react_admin_user_manage/index.html",
+    "precache-manifest.11b44ffad2d460b0d852bcf6be2cd1d8.js": "/react_admin_user_manage/precache-manifest.11b44ffad2d460b0d852bcf6be2cd1d8.js",
+    "service-worker.js": "/react_admin_user_manage/service-worker.js",
+    "static/css/main.2fcfb848.chunk.css.map": "/react_admin_user_manage/static/css/main.2fcfb848.chunk.css.map",
+    "static/js/2.dc69e9d4.chunk.js.LICENSE.txt": "/react_admin_user_manage/static/js/2.dc69e9d4.chunk.js.LICENSE.txt",
+    "static/media/admin_soccer.png": "/react_admin_user_manage/static/media/admin_soccer.01ab520a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78f3226c.js",
+    "static/js/2.dc69e9d4.chunk.js",
+    "static/css/main.2fcfb848.chunk.css",
+    "static/js/main.f010a840.chunk.js"
+  ]
+}
